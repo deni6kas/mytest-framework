@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.log
+*.ilk
+*.pdb
+*.idb
+*.cache
+*.exp
+
+# Visual Studio and IDE files
+.vscode/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Misc
+*.DS_Store
+*.swp
+*~
